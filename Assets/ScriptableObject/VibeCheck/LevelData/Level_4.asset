@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 198f5e2a4c1464aa69cca757ba5157fb, type: 3}
+  m_Name: Level_4
+  m_EditorClassIdentifier: Assembly-CSharp::LevelDataSO
+  promptText: Which kitty is angry?
+  correctEmoji: {fileID: 11400000, guid: b8fce610d8bcb43698ce358b2c01b312, type: 2}
+  levelOptions:
+  - {fileID: 11400000, guid: 2ddd4a0eec01444d38a0f79b1e8b70ea, type: 2}
+  - {fileID: 11400000, guid: f637c3460542b4f17a3fc638e7de945b, type: 2}
+  - {fileID: 11400000, guid: b8fce610d8bcb43698ce358b2c01b312, type: 2}
+  - {fileID: 11400000, guid: 9213ecd82f0634bf08d5e8228dc000c9, type: 2}

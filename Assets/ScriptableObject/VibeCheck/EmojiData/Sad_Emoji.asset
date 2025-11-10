@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 37769c4fd8c56424486dfdcffaf6b7d3, type: 3}
+  m_Name: Sad_Emoji
+  m_EditorClassIdentifier: Assembly-CSharp::EmojiDataSO
+  emojiName: Sad
+  emojiSprite: {fileID: -3752711834126370623, guid: 104da0617ddb94f3b88118390d7dbb30, type: 3}
+  clickAnimation: {fileID: 7400000, guid: 2fec975f1663d42d88eeee490d0abf2b, type: 2}
